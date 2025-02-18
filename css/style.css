@@ -1,0 +1,37 @@
+nav {
+  background-color: #A27B5C;
+  text-align: center;
+}
+
+body {
+  background-color: #2C3930;
+  color: #DCD7C9;
+  font-family: Arial;
+}
+
+header, footer {
+  background-color:#3F4F44;
+}
+
+main {
+  background-color: #2C3930;
+}
+
+h1 {
+  text-align: center;
+}
+
+a {
+  color: #A27B5C;
+}
+
+nav > ul > li {
+  display: inline-block;
+  margin: 10px;
+}
+
+nav > ul > li > a{
+  display: inline-block;
+  margin: 10px;
+  color: #DCD7C9;
+}
